@@ -1,7 +1,7 @@
 
 # Currency-Converter 
 
-Currency-Converter Python App contains currency converter using python
+Currency-Converter DESKTOP App contains currency converter using python
 
 
 ## Badges
